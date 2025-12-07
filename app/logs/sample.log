@@ -1,0 +1,11 @@
+INFO: System booted successfully
+
+WARNING: Disk usage high
+
+ERROR: Failed to connect to database
+
+ERROR: Timeout during API call
+
+INFO: Health check passed
+
+

@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  analyzer:
+    build: .
+    container_name: log_analyzer
+    tty: true
+    volumes:
+      - ./app/logs:/app/logs
+
